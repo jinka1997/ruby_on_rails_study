@@ -1,1 +1,2 @@
-# ruby_on_rails_study
+# チュートリアル
+https://railstutorial.jp
